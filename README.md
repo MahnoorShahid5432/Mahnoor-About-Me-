@@ -4,14 +4,14 @@
 
 ---
 
-### 🚀 About Me
-I’m a data-driven product and analytics enthusiast with 4+ years of experience spanning consumer goods, energy, and tech. My background combines business strategy with hands-on data science and program execution — from launching products across the APMEA region at BAT to building machine learning models and dashboards at UC Davis.
+### About Me
+I am a data-driven product and analytics enthusiast with 4+ years of experience spanning consumer goods, energy, and tech. My background combines business strategy with hands-on data science and product execution — from launching products across the APMEA region at BAT to building machine learning models and dashboards at UC Davis.
 
 My sweet spot? Driving impact by turning raw data into smart decisions — across supply chain, product, or user-facing experiences.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Skills
 
 - **Languages & Analytics:** Python, SQL, R, Spark  
 - **Visualization & Dashboards:** Tableau, Power BI, Streamlit  
@@ -21,11 +21,11 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 
 ---
 
-### 🎯 Featured Projects
+###  Projects
 
 #### 🌱 AgriAid: GenAI Agent for Smallholder Farming
 *Generative AI | PySpark | Time-Series Forecasting*
-- Built a multilingual AI agent to support low-tech farmers with crop, irrigation, and yield recommendations
+- Built an AI agent to support low-tech farmers with crop, irrigation, and yield recommendations
 - Integrated weather, soil, and pesticide data using PySpark pipelines and predictive modeling (LSTM & Prophet)
 - Final MSBA Capstone Project, combining NLP and geospatial data for hyperlocal insights
 
@@ -35,7 +35,7 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 - Engineered complex features from industry data using Pandas, Sklearn, and XGBoost
 - Visualized feature importances and model performance
 
-#### 🧠 SQL Toy Dataset Project
+#### 🧠 SQL Retail Dataset Project
 *Retail Analytics | SQL Optimization*
 - Designed and queried a toy sales dataset using PostgreSQL to extract user behavior and transaction trends
 - Created segment-wise revenue breakdowns and cohort analysis
@@ -56,23 +56,25 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 ### 💼 Professional Highlights
 
 - **Cashmere AI**: Developed an advisor-prospect affinity model that improved match quality by 25%, boosting engagement rates and informing product roadmap for dashboard automation  
-- **British American Tobacco**: Led the end-to-end product launch pipeline for APMEA — aligning sourcing, logistics, and regional launches across 10+ countries  
-- **TotalEnergies**: Spearheaded the expansion of a B2B retail portal, integrating 3-year financial history and enhancing fuel order planning accuracy by 30%
+- **British American Tobacco**: Led the end-to-end product launch pipeline for Modern Oral products across APMEA region — aligning sourcing, logistics, and regional launches across 10+ countries  
+- **TotalEnergies**: "Led technical enhancements to TotalEnergies’ B2B retailer portal for fuel customers and collaborated on the development of a mystery audit mobile app, streamlining compliance tracking and improving fuel station performance insights through real-time reporting and analytics.
 
 ---
 
-### 📈 Current Focus
+### 📈 What I'm Exploring Right Now
 
-- 🚗 Fleet Optimization using Geospatial Analytics & Telemetry Data  
-- 🤖 Experimentation Frameworks for AI Product Evaluation  
-- 📊 Real-Time Dashboards with Streamlit + APIs  
-- 📉 Time-Series ML for Predictive Maintenance & Sales Forecasting
+- 🚗 **Fleet Optimization with Geospatial & Telemetry Data**  
+- 🤖 **AI Experimentation & A/B Testing Frameworks**  
+- 📊 **Real-Time Dashboards with Streamlit & APIs**  
+- 📈 **Advanced Data Visualization**  
+- 📉 **Time-Series Forecasting for Maintenance & Sales**
+
 
 ---
 
 ### 🤝 Let’s Connect!
 
-I'm always open to:
+I am always open to:
 - 🎯 Collaborating on Data & Product projects
 - 💡 Brainstorming business ideas at the intersection of analytics & ops
 - 🧭 Chatting career paths in tech, product, and analytics
